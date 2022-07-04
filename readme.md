@@ -1,4 +1,4 @@
-# Clicksend SMS
+# Clicksend SMS Api
 
 Enables sending of SMS messages through Clicksend. 
 
